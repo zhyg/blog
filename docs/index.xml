@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yangong&#39;s Blog | Yangong&#39;s Blog</title>
+        <link>https://zhyg.github.io/</link>
+        <description>Yangong&#39;s Blog | Yangong&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Mar 2020 12:02:37 &#43;0800</lastBuildDate><atom:link href="https://zhyg.github.io/" rel="self" type="application/rss+xml" /><item>
+                <title>Posts</title>
+                <link>https://zhyg.github.io/posts/</link>
+                <pubDate>Sat, 14 Mar 2020 14:43:24 &#43;0800</pubDate><guid>https://zhyg.github.io/posts/</guid>
+                <description></description>
+            </item><item>
+                <title>About</title>
+                <link>https://zhyg.github.io/about/</link>
+                <pubDate>Sat, 14 Mar 2020 12:02:37 &#43;0800</pubDate><guid>https://zhyg.github.io/about/</guid>
+                <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+</description>
+            </item><item>
+                <title>Slides</title>
+                <link>https://zhyg.github.io/slides/</link>
+                <pubDate>Sun, 15 Oct 2017 10:00:00 &#43;0800</pubDate><guid>https://zhyg.github.io/slides/</guid>
+                <description></description>
+            </item></channel>
+</rss>

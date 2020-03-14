@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TiDB on Yangong&#39;s Blog</title>
+    <link>https://zhyg.github.io/tags/tidb/</link>
+    <description>Recent content in TiDB on Yangong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 15 Oct 2017 10:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhyg.github.io/tags/tidb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to NewSQL</title>
+      <link>https://zhyg.github.io/slides/2017-10-15-introduction-to-newsql-slide/</link>
+      <pubDate>Sun, 15 Oct 2017 10:00:00 +0800</pubDate>
+      
+      <guid>https://zhyg.github.io/slides/2017-10-15-introduction-to-newsql-slide/</guid>
+      <description>class: center, middle, inverse Introduction to NewSQL 张彦功 2017-10-15 .right-column[ contents Database History What&amp;rsquo;s NewSQL Basic of TiDB Summary ] class: center, middle, inverse Database History .left-column[ Database Problem ] .right-column[ 遇到的问题 期望每个微服务都是无状态的，但是很多时候状态都是不可避免的 通过存</description>
+    </item>
+    
+  </channel>
+</rss>
